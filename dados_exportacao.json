@@ -1,0 +1,570 @@
+{
+    "Afeganistão": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "África do Sul": {
+        "volume": "103",
+        "valor": "1.783"
+    },
+    "Alemanha, República Democrática": {
+        "volume": "6.666",
+        "valor": "48.095"
+    },
+    "Angola": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Anguilla": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Antígua e Barbuda": {
+        "volume": "447",
+        "valor": "3.329"
+    },
+    "Antilhas Holandesas": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Arábia Saudita": {
+        "volume": "32",
+        "valor": "54"
+    },
+    "Argélia": {
+        "volume": "6",
+        "valor": "87"
+    },
+    "Argentina": {
+        "volume": "21.015",
+        "valor": "167.696"
+    },
+    "Aruba": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Austrália": {
+        "volume": "2.070",
+        "valor": "19.152"
+    },
+    "Áustria": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Bahamas": {
+        "volume": "1.632",
+        "valor": "7.457"
+    },
+    "Bangladesh": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Barbados": {
+        "volume": "773",
+        "valor": "580"
+    },
+    "Barein": {
+        "volume": "178",
+        "valor": "1.044"
+    },
+    "Bélgica": {
+        "volume": "960",
+        "valor": "8.334"
+    },
+    "Belice": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Benin": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Bermudas": {
+        "volume": "102",
+        "valor": "823"
+    },
+    "Bolívia": {
+        "volume": "20.334",
+        "valor": "30.293"
+    },
+    "Bósnia-Herzegovina": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Brasil": {
+        "volume": "96",
+        "valor": "244"
+    },
+    "Bulgária": {
+        "volume": "18",
+        "valor": "184"
+    },
+    "Cabo Verde": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Camarões": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Canadá": {
+        "volume": "4.320",
+        "valor": "35.179"
+    },
+    "Catar": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Cayman, Ilhas": {
+        "volume": "180",
+        "valor": "591"
+    },
+    "Chile": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "China": {
+        "volume": "34.231",
+        "valor": "182.595"
+    },
+    "Chipre": {
+        "volume": "988",
+        "valor": "4.308"
+    },
+    "Cingapura": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Cocos (Keeling), Ilhas": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Colômbia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Comores": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Congo": {
+        "volume": "2.340",
+        "valor": "3.753"
+    },
+    "Coreia, Republica Sul": {
+        "volume": "173",
+        "valor": "1.050"
+    },
+    "Costa do Marfim": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Costa Rica": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Coveite (Kuweit)": {
+        "volume": "16",
+        "valor": "72"
+    },
+    "Croácia": {
+        "volume": "23",
+        "valor": "44"
+    },
+    "Cuba": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Curaçao": {
+        "volume": "25.146",
+        "valor": "50.990"
+    },
+    "Dinamarca": {
+        "volume": "11",
+        "valor": "185"
+    },
+    "Dominica": {
+        "volume": "947",
+        "valor": "4.545"
+    },
+    "El Salvador": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Emirados Arabes Unidos": {
+        "volume": "1.688",
+        "valor": "8.253"
+    },
+    "Equador": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Eslovaca, Republica": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Espanha": {
+        "volume": "191",
+        "valor": "2.062"
+    },
+    "Estados Unidos": {
+        "volume": "310.410",
+        "valor": "648.724"
+    },
+    "Estônia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Filipinas": {
+        "volume": "11.514",
+        "valor": "27.378"
+    },
+    "Finlândia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "França": {
+        "volume": "3.729",
+        "valor": "29.768"
+    },
+    "Gabão": {
+        "volume": "5",
+        "valor": "18"
+    },
+    "Gana": {
+        "volume": "54.828",
+        "valor": "91.317"
+    },
+    "Gibraltar": {
+        "volume": "5",
+        "valor": "13"
+    },
+    "Granada": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Grécia": {
+        "volume": "617",
+        "valor": "2.051"
+    },
+    "Guatemala": {
+        "volume": "7.957",
+        "valor": "14.268"
+    },
+    "Guiana": {
+        "volume": "115.884",
+        "valor": "349.244"
+    },
+    "Guiana Francesa": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Guine Bissau": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Guine Equatorial": {
+        "volume": "2.250",
+        "valor": "4.279"
+    },
+    "Haiti": {
+        "volume": "450.690",
+        "valor": "713.158"
+    },
+    "Honduras": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Hong Kong": {
+        "volume": "6.696",
+        "valor": "30.490"
+    },
+    "Hungria": {
+        "volume": "14",
+        "valor": "27"
+    },
+    "Ilha de Man": {
+        "volume": "124",
+        "valor": "587"
+    },
+    "Ilhas Virgens": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Índia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Indonésia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Irã": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Iraque": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Irlanda": {
+        "volume": "32",
+        "valor": "132"
+    },
+    "Itália": {
+        "volume": "2.431",
+        "valor": "11.642"
+    },
+    "Jamaica": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Japão": {
+        "volume": "29.320",
+        "valor": "66.956"
+    },
+    "Jordânia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Letônia": {
+        "volume": "33.273",
+        "valor": "144.229"
+    },
+    "Líbano": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Libéria": {
+        "volume": "12.024",
+        "valor": "38.576"
+    },
+    "Luxemburgo": {
+        "volume": "72",
+        "valor": "832"
+    },
+    "Macau": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Malásia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Malavi": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Malta": {
+        "volume": "6.302",
+        "valor": "16.586"
+    },
+    "Marshall, Ilhas": {
+        "volume": "5.628",
+        "valor": "23.195"
+    },
+    "Martinica": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Mauritânia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "México": {
+        "volume": "2.277",
+        "valor": "7.938"
+    },
+    "Moçambique": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Montenegro": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Namíbia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Nicarágua": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Nigéria": {
+        "volume": "808",
+        "valor": "2.052"
+    },
+    "Noruega": {
+        "volume": "309",
+        "valor": "2.185"
+    },
+    "Nova Caledônia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Nova Zelândia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Omã": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Países Baixos": {
+        "volume": "3.074",
+        "valor": "22.785"
+    },
+    "Palau": {
+        "volume": "30",
+        "valor": "320"
+    },
+    "Panamá": {
+        "volume": "121.432",
+        "valor": "97.549"
+    },
+    "Paraguai": {
+        "volume": "3.705.268",
+        "valor": "5.121.857"
+    },
+    "Peru": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Pitcairn": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Polônia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Porto Rico": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Portugal": {
+        "volume": "26.340",
+        "valor": "50.923"
+    },
+    "Quênia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Reino Unido": {
+        "volume": "14.780",
+        "valor": "106.713"
+    },
+    "República Dominicana": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Rússia": {
+        "volume": "56",
+        "valor": "338"
+    },
+    "São Cristóvão e Névis": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "São Tomé e Príncipe": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "São Vicente e Granadinas": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Senegal": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Serra Leoa": {
+        "volume": "36.608",
+        "valor": "68.151"
+    },
+    "Sérvia": {
+        "volume": "10.482",
+        "valor": "25.379"
+    },
+    "Singapura": {
+        "volume": "4.141",
+        "valor": "20.048"
+    },
+    "Suazilândia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Suécia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Suíça": {
+        "volume": "2.350",
+        "valor": "23.791"
+    },
+    "Suriname": {
+        "volume": "27.900",
+        "valor": "71.483"
+    },
+    "Tailândia": {
+        "volume": "266",
+        "valor": "1.910"
+    },
+    "Taiwan (Formosa)": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Tanzânia": {
+        "volume": "3",
+        "valor": "35"
+    },
+    "Tcheca, República": {
+        "volume": "2.273",
+        "valor": "20.973"
+    },
+    "Togo": {
+        "volume": "27.630",
+        "valor": "48.070"
+    },
+    "Toquelau": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Trinidade Tobago": {
+        "volume": "64",
+        "valor": "199"
+    },
+    "Tunísia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Turquia": {
+        "volume": "216",
+        "valor": "540"
+    },
+    "Tuvalu": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Uruguai": {
+        "volume": "36.729",
+        "valor": "62.325"
+    },
+    "Vanuatu": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Venezuela": {
+        "volume": "122.922",
+        "valor": "199.418"
+    },
+    "Vietnã": {
+        "volume": "16",
+        "valor": "41"
+    },
+    "Total": {
+        "volume": "5.324.465",
+        "valor": "8.751.275"
+    }
+}

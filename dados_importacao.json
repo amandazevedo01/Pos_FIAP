@@ -1,0 +1,282 @@
+{
+    "Africa do Sul": {
+        "volume": "658.238",
+        "valor": "2.133.775"
+    },
+    "Alemanha": {
+        "volume": "121.002",
+        "valor": "805.466"
+    },
+    "Argélia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Arábia Saudita": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Argentina": {
+        "volume": "26.272.478",
+        "valor": "93.869.579"
+    },
+    "Armênia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Austrália": {
+        "volume": "422.720",
+        "valor": "1.437.842"
+    },
+    "Áustria": {
+        "volume": "17.796",
+        "valor": "104.965"
+    },
+    "Bermudas": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Bélgica": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Bolívia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Bósnia-Herzegovina": {
+        "volume": "4.883",
+        "valor": "9.862"
+    },
+    "Brasil": {
+        "volume": "71.637",
+        "valor": "147.179"
+    },
+    "Bulgária": {
+        "volume": "25.718",
+        "valor": "62.739"
+    },
+    "Canada": {
+        "volume": "203",
+        "valor": "18.258"
+    },
+    "Chile": {
+        "volume": "73.111.416",
+        "valor": "199.874.777"
+    },
+    "China": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Coreia do Sul, República": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Croácia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Cuba": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Emirados Árabes Unidos": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Eslovênia": {
+        "volume": "17.671",
+        "valor": "61.546"
+    },
+    "Eslováquia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Espanha": {
+        "volume": "6.828.739",
+        "valor": "18.867.752"
+    },
+    "Estados Unidos": {
+        "volume": "273.198",
+        "valor": "1.919.231"
+    },
+    "França": {
+        "volume": "4.700.023",
+        "valor": "30.175.837"
+    },
+    "Geórgia": {
+        "volume": "9.998",
+        "valor": "15.541"
+    },
+    "Geórgia do Sul e Sandwich do Sul, Ilhas": {
+        "volume": "2.937",
+        "valor": "4.692"
+    },
+    "Grécia": {
+        "volume": "41.071",
+        "valor": "171.795"
+    },
+    "Hong Kong": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Hungria": {
+        "volume": "27.820",
+        "valor": "238.501"
+    },
+    "Indonésia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Irlanda": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Israel": {
+        "volume": "37.533",
+        "valor": "183.392"
+    },
+    "Itália": {
+        "volume": "9.861.350",
+        "valor": "39.485.660"
+    },
+    "Japão": {
+        "volume": "411",
+        "valor": "4.363"
+    },
+    "Iugoslávia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Líbano": {
+        "volume": "8.730",
+        "valor": "45.866"
+    },
+    "Luxemburgo": {
+        "volume": "6",
+        "valor": "59"
+    },
+    "Macedônia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Marrocos": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "México": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Moldávia": {
+        "volume": "58.609",
+        "valor": "158.610"
+    },
+    "Montenegro": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Noruega": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Nova Zelândia": {
+        "volume": "39.629",
+        "valor": "279.820"
+    },
+    "Países Baixos (Holanda)": {
+        "volume": "810",
+        "valor": "8.649"
+    },
+    "Panamá": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Paraguai": {
+        "volume": "1",
+        "valor": "21"
+    },
+    "Peru": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Porto Rico": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Portugal": {
+        "volume": "27.460.645",
+        "valor": "81.087.293"
+    },
+    "Reino Unido": {
+        "volume": "680",
+        "valor": "13.781"
+    },
+    "Republica Dominicana": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Romênia": {
+        "volume": "24.660",
+        "valor": "55.142"
+    },
+    "Rússia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "San Marino": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Sérvia": {
+        "volume": "2.445",
+        "valor": "4.140"
+    },
+    "Síria": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Suazilândia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Suíça": {
+        "volume": "541",
+        "valor": "3.939"
+    },
+    "Tcheca, República": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Tunísia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Turquia": {
+        "volume": "3.203",
+        "valor": "4.997"
+    },
+    "Ucrânia": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Uruguai": {
+        "volume": "3.015.429",
+        "valor": "9.827.906"
+    },
+    "Não consta na tabela": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Não declarados": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Outros": {
+        "volume": "0",
+        "valor": "0"
+    },
+    "Total": {
+        "volume": "153.122.230",
+        "valor": "481.082.975"
+    }
+}
