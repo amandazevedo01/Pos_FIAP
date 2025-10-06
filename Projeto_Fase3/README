@@ -1,0 +1,41 @@
+# Classificação de Espécies de Flores com Spark e scikit-learn
+
+## Descrição
+
+Este projeto tem como objetivo construir um modelo de classificação supervisionada para prever a espécie de uma flor com base em atributos morfológicos. Os dados foram processados com Apache Spark e modelados com scikit-learn, utilizando um pipeline híbrido entre processamento distribuído e aprendizado de máquina tradicional.
+
+---
+
+## Tecnologias Utilizadas
+
+- Apache Spark (leitura e manipulação de dados)
+- Amazon S3 (armazenamento de dados em Parquet)
+- Python 3.9
+- Pandas
+- scikit-learn
+- Jupyter Notebook ou ambiente compatível
+
+---
+
+## Estrutura dos Dados
+
+O conjunto de dados contém as seguintes colunas:
+
+| Coluna              | Tipo   | Descrição                          |
+|---------------------|--------|------------------------------------|
+| comprimento_sepala  | float  | Comprimento da sépala              |
+| largura_sepala      | float  | Largura da sépala                  |
+| comprimento_petala  | float  | Comprimento da pétala              |
+| largura_petala      | float  | Largura da pétala                  |
+| classe              | string | Espécie da flor (variável alvo)    |
+
+---
+
+## Etapas do Projeto
+
+### 1. Leitura dos dados com Spark
+
+```python
+df = spark.read.parquet("s3://fiapflores/refined/flores.parquet")
+df.createOrReplaceTempView("flores")
+spark.sql("SELECT * FROM flores").show()
